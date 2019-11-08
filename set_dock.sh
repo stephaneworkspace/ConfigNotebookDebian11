@@ -1,0 +1,1 @@
+gsettings set org.gnome.shell favorite-apps "['org.gnome.Nautilus.desktop', 'chromium.desktop', 'org.gnome.Evolution.desktop','org.gnome.Calendar.desktop', 'org.gnome.Terminal.desktop', 'libreoffice-writer.desktop','org.gnome.gedit.desktop', 'org.gnome.Software.desktop', 'rhythmbox.desktop']"
